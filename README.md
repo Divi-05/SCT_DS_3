@@ -22,7 +22,7 @@ This project uses a *Decision Tree Classifier* to predict whether a customer wil
 - Pandas & Seaborn (for data handling and visualization)
 - Scikit-learn (for machine learning)
 
--> Sample Output
+-> Output
 Accuracy: ~89%
 Classification Report:
   Precision, Recall & F1-score (higher for "No", lower for "Yes")
